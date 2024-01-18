@@ -20,3 +20,6 @@ def feature2():
 
 def feature3():
     print("~~~")
+
+def feature4():
+    print("!!!!!!!")
