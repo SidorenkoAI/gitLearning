@@ -12,3 +12,6 @@ print("sdf")
 
 def feature2():
     print("~~~")
+
+def feature3():
+    print("~~~")
