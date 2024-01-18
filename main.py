@@ -6,5 +6,5 @@ print("Hello!")
 print(f(2,3))
 
 def plus(a,b):
-    print(a + b)
+    return a + b
 
