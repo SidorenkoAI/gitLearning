@@ -9,3 +9,6 @@ def plus(a,b):
     return a + b
 
 print("sdf")
+
+def feature2():
+    print("~~~")
