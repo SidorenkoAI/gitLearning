@@ -4,3 +4,7 @@ def f(x, y):
 
 print("Hello!")
 print(f(2,3))
+
+def plus(a,b):
+    return a + b
+
